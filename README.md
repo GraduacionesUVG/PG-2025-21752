@@ -30,7 +30,7 @@ Debido a la naturaleza del proyecto, su ejecución completa requiere **infraestr
 - Proyecto configurado en **Unity** con los SDK correspondientes
 - Acceso a servicios de síntesis de voz (TTS)
 
-> ⚠️ **Nota importante**:  
+> [!IMPORTANT] 
 > Este proyecto **no es ejecutable mediante una simple clonación del repositorio**, ya que depende de hardware físico, servicios externos y configuraciones específicas de iOS. La validación funcional se realiza principalmente a través del video demostrativo y la documentación técnica.
 
 
